@@ -17,7 +17,7 @@ I didn't write proper documentation, so I'll have to update this later.
 >  If that fails, you will need to locate the directory which houses the *TASystemSettings.ini* file.
 
 2. During your first startup, or if resolution changes have been made to the secondary monitor, a window should appear that asks you to drag it to the second monitor.
-Simply drag it to another monitor and it will update itself to compare resolutions to your primary monitor. If the two resolutions match, an orange checkmark should appear. Click that and the main window should appear.
+Simply drag it to another monitor and it will update itself to compare resolutions to your primary monitor. If the two resolutions match, an orange checkmark should appear. Click that and the main window will open up.
 
 >   If the resolutions are different, open the windows search bar and type *Display Settings*, there should be an item that has *System Settings* as a descriptor, click that. Use the Display Setting window to match the two monitor resolutions. 
 
