@@ -1,7 +1,8 @@
 # LenksRLSS
 **Tested on Steam Rocket League, but it should work for Epic Games as well.**
-<p align="left">
-  <img src="https://i.gyazo.com/fd9045b5df48ccf7177c14cfe4c654e7.png" alt="Program Form"/>
+<p align="center">
+  <img src="https://i.gyazo.com/fd9045b5df48ccf7177c14cfe4c654e7.png" alt="Program Form" height="300px"/>
+  <img src="https://gyazo.com/6e6368694fbbcd28383afb1647385923.png" alt="Program Form 2" height="300px"/>
 </p>
 
 
